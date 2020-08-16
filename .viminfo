@@ -12,13 +12,13 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1597564507,,"wq!"
+|2,0,1597565478,,"wq!"
+:q!
+|2,0,1597565100,,"q!"
 :w!
 |2,0,1597563404,,"w!"
 :qw!
 |2,0,1597562997,,"qw!"
-:q!
-|2,0,1597562934,,"q!"
 :w
 |2,0,1597562925,,"w"
 :q
@@ -33,102 +33,281 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
-"1	LINE	0
-	https://code.dcoder.tech/files/design/5f38da1bdc55fe0e211affab/indexhtml
-|3,0,1,1,1,0,1597562904,"https://code.dcoder.tech/files/design/5f38da1bdc55fe0e211affab/indexhtml"
+""1	LINE	0
+	xxxx
+|3,1,1,1,1,0,1597565307,"xxxx"
 "2	LINE	0
-	
-|3,0,2,1,1,0,1597562903,""
+	https://code.dcoder.tech/files/design/5f38da1bdc55fe0e211affab/indexhtml
+|3,0,2,1,1,0,1597562904,"https://code.dcoder.tech/files/design/5f38da1bdc55fe0e211affab/indexhtml"
 "3	LINE	0
 	
-|3,0,3,1,1,0,1597562901,""
+|3,0,3,1,1,0,1597562903,""
 "4	LINE	0
 	
-|3,0,4,1,1,0,1597562900,""
-""-	CHAR	0
-	,
-|3,1,36,0,1,0,1597564495,","
+|3,0,4,1,1,0,1597562901,""
+"5	LINE	0
+	
+|3,0,5,1,1,0,1597562900,""
+"-	CHAR	0
+	x
+|3,0,36,0,1,0,1597565306,"x"
 
 # global variables:
 
 # File marks:
-'0  7  55  ~/downloads/index.html
-|4,48,7,55,1597564507,"~/downloads/index.html"
-'1  7  48  ~/downloads/index.html
-|4,49,7,48,1597563698,"~/downloads/index.html"
-'2  1  13  ~/.git/COMMIT_EDITMSG
-|4,50,1,13,1597563421,"~/.git/COMMIT_EDITMSG"
-'3  11  4  ~/downloads/index.html
-|4,51,11,4,1597563011,"~/downloads/index.html"
-'4  11  4  ~/downloads/index.html
-|4,52,11,4,1597563011,"~/downloads/index.html"
-'5  11  4  ~/downloads/index.html
-|4,53,11,4,1597563011,"~/downloads/index.html"
-'6  11  4  ~/downloads/index.html
-|4,54,11,4,1597563011,"~/downloads/index.html"
-'7  1  0  ~/downloads/index.html
-|4,55,1,0,1597562934,"~/downloads/index.html"
-'8  1  0  ~/downloads/index.html
-|4,56,1,0,1597562934,"~/downloads/index.html"
-'9  1  0  ~/downloads/index.html
-|4,57,1,0,1597562934,"~/downloads/index.html"
+'0  5  7  ~/downloads/mylog.log
+|4,48,5,7,1597565478,"~/downloads/mylog.log"
+'1  2  4  ~/downloads/.gitignore
+|4,49,2,4,1597565394,"~/downloads/.gitignore"
+'2  1  7  ~/downloads/.gitignore
+|4,50,1,7,1597565319,"~/downloads/.gitignore"
+'3  1  7  ~/downloads/.gitignore
+|4,51,1,7,1597565319,"~/downloads/.gitignore"
+'4  4  7  ~/downloads/mylog.log
+|4,52,4,7,1597565251,"~/downloads/mylog.log"
+'5  4  7  ~/downloads/mylog.log
+|4,53,4,7,1597565251,"~/downloads/mylog.log"
+'6  1  0  ~/downloads/.gitignore
+|4,54,1,0,1597565198,"~/downloads/.gitignore"
+'7  1  0  ~/downloads/.gitignore
+|4,55,1,0,1597565198,"~/downloads/.gitignore"
+'8  1  0  ~/.git/COMMIT_EDITMSG
+|4,56,1,0,1597565100,"~/.git/COMMIT_EDITMSG"
+'9  7  61  ~/downloads/index.html
+|4,57,7,61,1597565002,"~/downloads/index.html"
 
 # Jumplist (newest first):
--'  7  55  ~/downloads/index.html
-|4,39,7,55,1597564507,"~/downloads/index.html"
--'  7  48  ~/downloads/index.html
-|4,39,7,48,1597563698,"~/downloads/index.html"
--'  11  4  ~/downloads/index.html
-|4,39,11,4,1597563652,"~/downloads/index.html"
--'  11  4  ~/downloads/index.html
-|4,39,11,4,1597563652,"~/downloads/index.html"
--'  1  13  ~/.git/COMMIT_EDITMSG
-|4,39,1,13,1597563421,"~/.git/COMMIT_EDITMSG"
--'  1  13  ~/.git/COMMIT_EDITMSG
-|4,39,1,13,1597563421,"~/.git/COMMIT_EDITMSG"
--'  1  13  ~/.git/COMMIT_EDITMSG
-|4,39,1,13,1597563421,"~/.git/COMMIT_EDITMSG"
--'  1  13  ~/.git/COMMIT_EDITMSG
-|4,39,1,13,1597563421,"~/.git/COMMIT_EDITMSG"
--'  11  4  ~/downloads/index.html
-|4,39,11,4,1597563011,"~/downloads/index.html"
--'  11  4  ~/downloads/index.html
-|4,39,11,4,1597563011,"~/downloads/index.html"
--'  1  0  ~/downloads/index.html
-|4,39,1,0,1597562959,"~/downloads/index.html"
--'  1  0  ~/downloads/index.html
-|4,39,1,0,1597562959,"~/downloads/index.html"
--'  1  0  ~/downloads/index.html
-|4,39,1,0,1597562959,"~/downloads/index.html"
--'  1  0  ~/downloads/index.html
-|4,39,1,0,1597562959,"~/downloads/index.html"
--'  1  0  ~/downloads/index.html
-|4,39,1,0,1597562934,"~/downloads/index.html"
--'  1  0  ~/downloads/index.html
-|4,39,1,0,1597562934,"~/downloads/index.html"
--'  1  0  ~/downloads/index.html
-|4,39,1,0,1597562795,"~/downloads/index.html"
--'  1  0  ~/downloads/index.html
-|4,39,1,0,1597562795,"~/downloads/index.html"
--'  1  0  ~/downloads/index.html
-|4,39,1,0,1597562734,"~/downloads/index.html"
--'  1  0  ~/downloads/index.html
-|4,39,1,0,1597562734,"~/downloads/index.html"
+-'  5  7  ~/downloads/mylog.log
+|4,39,5,7,1597565478,"~/downloads/mylog.log"
+-'  4  7  ~/downloads/mylog.log
+|4,39,4,7,1597565469,"~/downloads/mylog.log"
+-'  2  4  ~/downloads/.gitignore
+|4,39,2,4,1597565394,"~/downloads/.gitignore"
+-'  2  4  ~/downloads/.gitignore
+|4,39,2,4,1597565394,"~/downloads/.gitignore"
+-'  1  7  ~/downloads/.gitignore
+|4,39,1,7,1597565370,"~/downloads/.gitignore"
+-'  1  7  ~/downloads/.gitignore
+|4,39,1,7,1597565370,"~/downloads/.gitignore"
+-'  1  7  ~/downloads/.gitignore
+|4,39,1,7,1597565319,"~/downloads/.gitignore"
+-'  1  7  ~/downloads/.gitignore
+|4,39,1,7,1597565319,"~/downloads/.gitignore"
+-'  4  7  ~/downloads/mylog.log
+|4,39,4,7,1597565251,"~/downloads/mylog.log"
+-'  4  7  ~/downloads/mylog.log
+|4,39,4,7,1597565251,"~/downloads/mylog.log"
+-'  4  7  ~/downloads/mylog.log
+|4,39,4,7,1597565251,"~/downloads/mylog.log"
+-'  4  7  ~/downloads/mylog.log
+|4,39,4,7,1597565251,"~/downloads/mylog.log"
+-'  1  0  ~/downloads/mylog.log
+|4,39,1,0,1597565236,"~/downloads/mylog.log"
+-'  1  0  ~/downloads/mylog.log
+|4,39,1,0,1597565236,"~/downloads/mylog.log"
+-'  1  0  ~/downloads/mylog.log
+|4,39,1,0,1597565236,"~/downloads/mylog.log"
+-'  1  0  ~/downloads/mylog.log
+|4,39,1,0,1597565236,"~/downloads/mylog.log"
+-'  1  0  ~/downloads/mylog.log
+|4,39,1,0,1597565236,"~/downloads/mylog.log"
+-'  1  0  ~/downloads/.gitignore
+|4,39,1,0,1597565198,"~/downloads/.gitignore"
+-'  1  0  ~/downloads/.gitignore
+|4,39,1,0,1597565198,"~/downloads/.gitignore"
+-'  1  0  ~/downloads/.gitignore
+|4,39,1,0,1597565198,"~/downloads/.gitignore"
+-'  1  0  ~/downloads/.gitignore
+|4,39,1,0,1597565198,"~/downloads/.gitignore"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1597565100,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1597565100,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1597565100,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1597565100,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1597565100,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1597565100,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1597565100,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1597565100,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1597565100,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1597565100,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1597565100,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1597565100,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1597565100,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1597565100,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1597565100,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1597565100,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1597565100,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1597565100,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1597565100,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1597565100,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1597565100,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1597565100,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1597565100,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1597565100,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1597565100,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1597565100,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1597565100,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1597565100,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1597565100,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1597565100,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1597565100,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1597565100,"~/.git/COMMIT_EDITMSG"
+-'  7  61  ~/downloads/index.html
+|4,39,7,61,1597565002,"~/downloads/index.html"
+-'  7  61  ~/downloads/index.html
+|4,39,7,61,1597565002,"~/downloads/index.html"
+-'  7  61  ~/downloads/index.html
+|4,39,7,61,1597565002,"~/downloads/index.html"
+-'  7  61  ~/downloads/index.html
+|4,39,7,61,1597565002,"~/downloads/index.html"
+-'  7  61  ~/downloads/index.html
+|4,39,7,61,1597565002,"~/downloads/index.html"
+-'  7  61  ~/downloads/index.html
+|4,39,7,61,1597565002,"~/downloads/index.html"
+-'  7  61  ~/downloads/index.html
+|4,39,7,61,1597565002,"~/downloads/index.html"
+-'  7  61  ~/downloads/index.html
+|4,39,7,61,1597565002,"~/downloads/index.html"
+-'  7  61  ~/downloads/index.html
+|4,39,7,61,1597565002,"~/downloads/index.html"
+-'  7  61  ~/downloads/index.html
+|4,39,7,61,1597565002,"~/downloads/index.html"
+-'  7  61  ~/downloads/index.html
+|4,39,7,61,1597565002,"~/downloads/index.html"
+-'  7  61  ~/downloads/index.html
+|4,39,7,61,1597565002,"~/downloads/index.html"
+-'  7  61  ~/downloads/index.html
+|4,39,7,61,1597565002,"~/downloads/index.html"
+-'  7  61  ~/downloads/index.html
+|4,39,7,61,1597565002,"~/downloads/index.html"
+-'  7  61  ~/downloads/index.html
+|4,39,7,61,1597565002,"~/downloads/index.html"
+-'  7  61  ~/downloads/index.html
+|4,39,7,61,1597565002,"~/downloads/index.html"
+-'  7  61  ~/downloads/index.html
+|4,39,7,61,1597565002,"~/downloads/index.html"
+-'  7  61  ~/downloads/index.html
+|4,39,7,61,1597565002,"~/downloads/index.html"
+-'  7  61  ~/downloads/index.html
+|4,39,7,61,1597565002,"~/downloads/index.html"
+-'  7  61  ~/downloads/index.html
+|4,39,7,61,1597565002,"~/downloads/index.html"
+-'  7  61  ~/downloads/index.html
+|4,39,7,61,1597565002,"~/downloads/index.html"
+-'  7  61  ~/downloads/index.html
+|4,39,7,61,1597565002,"~/downloads/index.html"
+-'  7  61  ~/downloads/index.html
+|4,39,7,61,1597565002,"~/downloads/index.html"
+-'  7  61  ~/downloads/index.html
+|4,39,7,61,1597565002,"~/downloads/index.html"
+-'  7  61  ~/downloads/index.html
+|4,39,7,61,1597565002,"~/downloads/index.html"
+-'  7  61  ~/downloads/index.html
+|4,39,7,61,1597565002,"~/downloads/index.html"
+-'  7  61  ~/downloads/index.html
+|4,39,7,61,1597565002,"~/downloads/index.html"
+-'  7  61  ~/downloads/index.html
+|4,39,7,61,1597565002,"~/downloads/index.html"
+-'  7  61  ~/downloads/index.html
+|4,39,7,61,1597565002,"~/downloads/index.html"
+-'  7  61  ~/downloads/index.html
+|4,39,7,61,1597565002,"~/downloads/index.html"
+-'  7  61  ~/downloads/index.html
+|4,39,7,61,1597565002,"~/downloads/index.html"
+-'  7  61  ~/downloads/index.html
+|4,39,7,61,1597565002,"~/downloads/index.html"
+-'  7  61  ~/downloads/index.html
+|4,39,7,61,1597565002,"~/downloads/index.html"
+-'  7  61  ~/downloads/index.html
+|4,39,7,61,1597565002,"~/downloads/index.html"
+-'  7  61  ~/downloads/index.html
+|4,39,7,61,1597565002,"~/downloads/index.html"
+-'  7  61  ~/downloads/index.html
+|4,39,7,61,1597565002,"~/downloads/index.html"
+-'  7  61  ~/downloads/index.html
+|4,39,7,61,1597565002,"~/downloads/index.html"
+-'  7  61  ~/downloads/index.html
+|4,39,7,61,1597565002,"~/downloads/index.html"
+-'  7  61  ~/downloads/index.html
+|4,39,7,61,1597565002,"~/downloads/index.html"
+-'  7  61  ~/downloads/index.html
+|4,39,7,61,1597565002,"~/downloads/index.html"
+-'  7  61  ~/downloads/index.html
+|4,39,7,61,1597565002,"~/downloads/index.html"
+-'  7  61  ~/downloads/index.html
+|4,39,7,61,1597565002,"~/downloads/index.html"
+-'  7  61  ~/downloads/index.html
+|4,39,7,61,1597565002,"~/downloads/index.html"
+-'  7  61  ~/downloads/index.html
+|4,39,7,61,1597565002,"~/downloads/index.html"
+-'  7  61  ~/downloads/index.html
+|4,39,7,61,1597565002,"~/downloads/index.html"
+-'  7  61  ~/downloads/index.html
+|4,39,7,61,1597565002,"~/downloads/index.html"
+-'  7  61  ~/downloads/index.html
+|4,39,7,61,1597565002,"~/downloads/index.html"
 
 # History of marks within files (newest to oldest):
 
-> ~/downloads/index.html
-	*	1597564501	0
-	"	7	55
-	^	7	56
-	.	7	55
-	+	1	15
-	+	11	6
-	+	7	55
+> ~/downloads/mylog.log
+	*	1597565475	0
+	"	5	7
+	^	5	8
+	.	5	7
+	+	4	8
+	+	5	7
+
+> ~/downloads/.gitignore
+	*	1597565388	0
+	"	2	4
+	^	2	5
+	.	2	4
+	+	1	8
+	+	2	4
 
 > ~/.git/COMMIT_EDITMSG
-	*	1597563413	0
-	"	1	13
+	*	1597565096	0
+	"	1	0
 	^	1	14
 	.	1	13
 	+	1	13
+
+> ~/downloads/index.html
+	*	1597564997	0
+	"	7	61
+	^	7	62
+	.	7	61
+	+	1	15
+	+	11	6
+	+	7	61
